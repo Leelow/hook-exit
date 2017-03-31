@@ -5,10 +5,7 @@ node_js:
   - "5"
   - "4"
 
-addons:
-  apt:
-    packages:
-      - xvfb
+ 
 install:
   - yarn install
 
