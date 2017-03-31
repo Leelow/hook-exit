@@ -20,15 +20,15 @@ $ npm install --save hook-exit
 ```js
 const exit = require('hook-exit');
 
-exit.hook(function() { // exit is disable
-  console.log('I do not want to exit !')
+exit.hook(function() {  // exit is disable
+  console.log('I do not want to exit !');
 })
 
-process.exit() 
+process.exit(); 
 
-exit.unhook() // exit is enable
+exit.unhook();  // exit is enable
 
-process.exit()
+process.exit();
 
 ```
 
