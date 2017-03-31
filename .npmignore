@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log
+
+.idea
+hook-exit.iml
+
+coverage
+tmp
+
+.appveyor.yml
+.travis.yml
+.gitignore
+test.js
