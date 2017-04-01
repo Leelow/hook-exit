@@ -47,7 +47,7 @@ $ npm run coverage
 
 [downloads-image]: https://img.shields.io/npm/dt/hook-exit.svg?maxAge=3600
 [downloads-url]: https://www.npmjs.com/package/hook-exit
-[travis-image]: https://travis-ci.org/Leelow/hook-exit?branch=master
+[travis-image]: https://travis-ci.org/Leelow/hook-exit.svg?branch=master
 [travis-url]: https://travis-ci.org/Leelow/hook-exit
 [appveyor-image]: https://ci.appveyor.com/api/projects/status/32aj3ap0kelnbdqt?svg=true
 [appveyor-url]: https://ci.appveyor.com/project/Leelow/hook-exit

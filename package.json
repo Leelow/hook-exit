@@ -18,5 +18,21 @@
     "istanbul": "^0.4.5",
     "mocha": "^3.2.0",
     "standard": "^9.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leelow/hook-exit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Leelow/hook-exit/issues"
+  },
+  "homepage": "https://github.com/Leelow/hook-exit#readme",
+  "keywords": [
+    "exit",
+    "hook",
+    "quit",
+    "handler",
+    "stop",
+    "mock"
+  ]
 }
