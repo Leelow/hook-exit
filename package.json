@@ -11,7 +11,8 @@
   },
   "scripts": {
     "test": "standard && node \"./node_modules/mocha/bin/_mocha\" --timeout 500 test.js",
-    "coverage": "standard && \"./node_modules/.bin/istanbul\" cover ./node_modules/mocha/bin/_mocha -- --timeout 500 --recursive -R spec test.js"
+    "coverage": "standard && \"./node_modules/.bin/istanbul\" cover ./node_modules/mocha/bin/_mocha -- --timeout 500 --recursive -R spec test.js",
+    "codacy": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | ./node_modules/.bin/codacy-coverage"
   },
   "devDependencies": {
     "istanbul": "^0.4.5",
