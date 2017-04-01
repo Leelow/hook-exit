@@ -1,6 +1,7 @@
 # hook-exit
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/Leelow/hook-exit.svg)](https://greenkeeper.io/)
+[![npm version][npm-version-image]][npm-version-url]
 [![NPM downloads][downloads-image]][downloads-url]
 [![Build Status][travis-image]][travis-url]
 [![Build Status][appveyor-image]][appveyor-url]
@@ -47,6 +48,8 @@ $ npm run coverage
 
 [MIT](LICENSE) © [Léo Lozach](https://github.com/Leelow)
 
+[npm-version-image]: https://badge.fury.io/js/hook-exit.svg
+[npm-version-url]: https://www.npmjs.com/package/hook-exit
 [downloads-image]: https://img.shields.io/npm/dt/hook-exit.svg?maxAge=3600
 [downloads-url]: https://www.npmjs.com/package/hook-exit
 [travis-image]: https://travis-ci.org/Leelow/hook-exit.svg?branch=master
