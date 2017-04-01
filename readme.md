@@ -53,6 +53,8 @@ $ npm run coverage
 [travis-url]: https://travis-ci.org/Leelow/hook-exit
 [appveyor-image]: https://ci.appveyor.com/api/projects/status/32aj3ap0kelnbdqt?svg=true
 [appveyor-url]: https://ci.appveyor.com/project/Leelow/hook-exit
+[codacy-coverage-image]: https://www.codacy.com/app/Leelow/hook-exit?utm_source=github.com&utm_medium=referral&utm_content=Leelow/hook-exit&utm_campaign=Badge_Coverage
+[codacy-coverage-url]: https://api.codacy.com/project/badge/Coverage/be1d56eb162d41a586ecac79685161f7
 [codacy-grade-image]: https://api.codacy.com/project/badge/Grade/be1d56eb162d41a586ecac79685161f7
 [codacy-grade-url]: https://www.codacy.com/app/Leelow/hook-exit?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Leelow/hook-exit&amp;utm_campaign=Badge_Grade
 [dependencies-image]: https://david-dm.org/leelow/hook-exit/status.svg
