@@ -1,5 +1,7 @@
 # hook-exit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Leelow/hook-exit.svg)](https://greenkeeper.io/)
+
 <!--- [![NPM downloads][downloads-image]][downloads-url] --->
 <!--- [![Build Status][travis-image]][travis-url] --->
 <!--- [![Build Status][appveyor-image]][appveyor-url] --->
