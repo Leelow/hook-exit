@@ -17,7 +17,7 @@
   "devDependencies": {
     "istanbul": "^0.4.5",
     "mocha": "^4.0.0",
-    "standard": "^10.0.0",
+    "standard": "^11.0.1",
     "codacy-coverage": "^2.0.1"
   },
   "repository": {
